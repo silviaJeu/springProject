@@ -1,0 +1,7 @@
+com\journaldev\spring\mongodb\controller\HomeController.class
+com\journaldev\spring\mongodb\dao\PersonDAOImpl.class
+com\journaldev\spring\mongodb\main\SpringDataMongoDBMain.class
+com\journaldev\spring\mongodb\model\Person.class
+com\journaldev\spring\mongodb\config\SpringWebAppInitializer.class
+com\journaldev\spring\mongodb\config\ApplicationContextConfig.class
+com\journaldev\spring\mongodb\dao\PersonDAO.class
